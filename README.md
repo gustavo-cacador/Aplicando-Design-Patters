@@ -42,11 +42,11 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 Entrada	 Saída
 10.0   7.0  Media: 8.5. Status: Bom.
 
-10.0
-9.0	Media: 9.5. Status: Excelente.
+Entrada Saída
+10.0   9.0	 Media: 9.5. Status: Excelente.
 
-5.0
-6.0	Media: 5.5. Status: Regular.
+Entrada Saída
+5.0    6.0	 Media: 5.5. Status: Regular.
 
 
 // Exercício 2
@@ -80,8 +80,12 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 Entrada	Saída
 08:59
 06:00	Reuniao nao pode ser agendada. Horario fora do intervalo permitido.
+
+Entrada Saída
 10:00
 14:53	Reuniao pode ser agendada.
+
+Entrada Saída
 18:01
 08:00	Reuniao nao pode ser agendada. Horario fora do intervalo permitido.
 
@@ -120,9 +124,10 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 Entrada	Saída
-22
-12	Salario total: 264.0
-40
-15	Salario total: 600.0
-10
-10	Salario total: 100.0
+22 12	Salario total: 264.0
+
+Entrada Saída
+40 15	Salario total: 600.0
+
+Entrada Saída
+10 10	Salario total: 100.0
