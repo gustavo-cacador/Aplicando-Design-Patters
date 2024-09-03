@@ -17,11 +17,13 @@ O status do projeto será classificado como:
 
 
 Entrada
+
 O programa deve receber as seguintes entradas:
 
 Registrar Avaliação: Recebe duas avaliações (notas entre 0 e 10) e adiciona à lista de avaliações.
 
 Saída
+
 O calculo da média das avaliações registradas e o status do projeto com base na média.O programa exibirá uma das seguintes mensagens:
 
 "Media: X. Status: Excelente."
@@ -33,6 +35,7 @@ O calculo da média das avaliações registradas e o status do projeto com base 
 "Media: X. Status: Insatisfatorio."
 
 Exemplos
+
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 Entrada	Saída
