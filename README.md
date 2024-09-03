@@ -66,9 +66,10 @@ Horário Desejado para a Reunião: Uma string representando o horário desejado 
 Horário Atual do Sistema: Uma string representando o horário atual do sistema (no formato "HH:MM").
 
 ## Saída
-"Reunião pode ser agendada.", se o horário desejado está dentro do intervalo permitido.
 
-"Reunião não pode ser agendada. Horário fora do intervalo permitido.", se o horário desejado está fora do intervalo permitido.
+- "Reunião pode ser agendada.", se o horário desejado está dentro do intervalo permitido.
+
+- "Reunião não pode ser agendada. Horário fora do intervalo permitido.", se o horário desejado está fora do intervalo permitido.
 
 Exemplos
 
