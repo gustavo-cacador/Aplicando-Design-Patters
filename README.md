@@ -4,6 +4,7 @@ Descrição
 Você está desenvolvendo um programa para avaliar projetos de software empresariais. O objetivo é permitir registrar avaliações de projetos, calcular a média das avaliações e determinar o status do projeto com base na média. E para resolver este desafio, utilizaremos o conceito de Design Patterns, especificamente o padrão Strategy. Este padrão é utilizado para definir uma família de algoritmos, encapsular cada um deles e torná-los intercambiáveis. O padrão Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam.
 
 TODO DETALHADO:
+
 Crie uma interface chamada EvaluationStrategy e implemente as classes concretas para cada estratégia de avaliação (ExcellentStrategy, GoodStrategy, RegularStrategy, UnsatisfactoryStrategy). As classes concretas devem implementar o método evaluate para determinar o status do projeto com base na média das avaliações. Utilize essas estratégias no método main para calcular o status do projeto e exibir a mensagem correta.
 
 O status do projeto será classificado como:
