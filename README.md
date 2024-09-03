@@ -38,11 +38,13 @@ O calculo da média das avaliações registradas e o status do projeto com base 
 
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-10.0
-7.0	Media: 8.5. Status: Bom.
+Entrada	 Saída
+10.0     Media: 8.5. Status: Bom.
+7.0	
+
 10.0
 9.0	Media: 9.5. Status: Excelente.
+
 5.0
 6.0	Media: 5.5. Status: Regular.
 
